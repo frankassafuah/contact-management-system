@@ -5,8 +5,8 @@ A simple Contact Management System written in Python. This project demonstrates 
 
 ## Features
 
-1. *Add Contact*: Allows the user to add a new contact with details such as name, phone number, and email.
-2. *View Contacts*: Displays all the contacts in the system.
+1. **Add Contact**: Allows the user to add a new contact with details such as name, phone number, and email.
+2. **View Contacts**: Displays all the contacts in the system.
 3. **Update Contact**: Provides functionality to update existing contact details.
 4. **Delete Contact**: Enables the user to delete a contact from the system.
 
