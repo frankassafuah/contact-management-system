@@ -1,6 +1,4 @@
 
-
-```markdown
 # Contact Management System
 
 A simple Contact Management System written in Python. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using lists and dictionaries.
